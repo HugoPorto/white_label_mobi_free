@@ -196,9 +196,6 @@ export default function LoginScreen({ navigation }: Props) {
                         keyboardShouldPersistTaps="handled">
                         <View style={styles.form}>
                             <Image
-                                source={require('../../../../assets/partiu.png')}
-                                style={styles.imageLogo}/>
-                            <Image
                                 source={require('../../../../assets/user_2.png')}
                                 style={styles.imageUser}/>
 

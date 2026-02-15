@@ -89,15 +89,6 @@ export function CustomDrawerContent(props: any) {
                     </View>
                 )}
             </View>
-
-            {/* Footer */}
-            <View style={styles.footer}>
-                <View style={styles.appInfo}>
-                    <Ionicons name="car-sport" size={20} color="#4CAF50" />
-                    <Text style={styles.appName}>Partiu</Text>
-                </View>
-                <Text style={styles.version}>v1.0.0</Text>
-            </View>
         </DrawerContentScrollView>
     );
 }

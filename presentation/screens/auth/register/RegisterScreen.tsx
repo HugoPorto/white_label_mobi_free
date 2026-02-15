@@ -371,12 +371,6 @@ export default function RegisterScreen({ navigation, route }: Props) {
                             </TouchableOpacity>
 
                             <Image
-                                source={require('../../../../assets/partiu.png')}
-                                style={styles.imageLogo}
-                                resizeMode="contain"
-                            />
-
-                            <Image
                                 source={require('../../../../assets/user_2.png')}
                                 style={styles.imageUser}
                             />
