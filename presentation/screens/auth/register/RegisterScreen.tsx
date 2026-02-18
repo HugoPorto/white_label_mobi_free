@@ -563,7 +563,7 @@ export default function RegisterScreen({ navigation, route }: Props) {
                                     1. Coleta e Uso de Dados Pessoais
                                 </Text>
                                 <Text style={loginStyles.privacyModalText}>
-                                    O Partiu App coleta dados pessoais necessários para o funcionamento do serviço, incluindo: nome, e-mail, telefone, CPF, localização em tempo real e dados de veículos. Estes dados são utilizados exclusivamente para prestação do serviço de transporte e melhorias na plataforma.
+                                    O White Label App Mobi Free coleta dados pessoais necessários para o funcionamento do serviço, incluindo: nome, e-mail, telefone, CPF, localização em tempo real e dados de veículos. Estes dados são utilizados exclusivamente para prestação do serviço de transporte e melhorias na plataforma.
                                 </Text>
 
                                 <Text style={loginStyles.privacyModalSectionTitle}>
@@ -626,7 +626,7 @@ export default function RegisterScreen({ navigation, route }: Props) {
                                     10. Aceite dos Termos
                                 </Text>
                                 <Text style={loginStyles.privacyModalText}>
-                                    Ao utilizar o Partiu App, você declara ter lido, compreendido e concordado com esta Política de Privacidade e Termos de Serviço, bem como consente com o tratamento de seus dados pessoais conforme descrito.
+                                    Ao utilizar o White Label App Mobi Free, você declara ter lido, compreendido e concordado com esta Política de Privacidade e Termos de Serviço, bem como consente com o tratamento de seus dados pessoais conforme descrito.
                                 </Text>
 
                                 <Text style={loginStyles.privacyModalText}>

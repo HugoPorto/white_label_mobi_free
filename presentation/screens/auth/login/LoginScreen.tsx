@@ -321,7 +321,7 @@ export default function LoginScreen({ navigation }: Props) {
                                     1. Coleta e Uso de Dados Pessoais
                                 </Text>
                                 <Text style={styles.privacyModalText}>
-                                    O Partiu App coleta dados pessoais necessários para o funcionamento do serviço, incluindo: nome, e-mail, telefone, CPF, localização em tempo real e dados de veículos. Estes dados são utilizados exclusivamente para prestação do serviço de transporte e melhorias na plataforma.
+                                    O White Label App Mobi Free coleta dados pessoais necessários para o funcionamento do serviço, incluindo: nome, e-mail, telefone, CPF, localização em tempo real e dados de veículos. Estes dados são utilizados exclusivamente para prestação do serviço de transporte e melhorias na plataforma.
                                 </Text>
                                 <Text style={styles.privacyModalSectionTitle}>
                                     2. Base Legal (LGPD Art. 7º)
@@ -375,7 +375,7 @@ export default function LoginScreen({ navigation }: Props) {
                                     10. Aceite dos Termos
                                 </Text>
                                 <Text style={styles.privacyModalText}>
-                                    Ao utilizar o Partiu App, você declara ter lido, compreendido e concordado com esta Política de Privacidade e Termos de Serviço, bem como consente com o tratamento de seus dados pessoais conforme descrito.
+                                    Ao utilizar o White Label App Mobi Free, você declara ter lido, compreendido e concordado com esta Política de Privacidade e Termos de Serviço, bem como consente com o tratamento de seus dados pessoais conforme descrito.
                                 </Text>
                                 <Text style={styles.privacyModalText}>
                                     <Text style={{ fontWeight: 'bold' }}>Data de vigência:</Text> 01 de Janeiro de 2025{'\n'}

@@ -169,7 +169,7 @@ export const DocumentsModal: React.FC<DocumentsModalProps> = ({
                             {/* Copyright */}
                             <View style={styles.documentsModalCopyright}>
                                 <Text style={styles.documentsModalCopyrightMainText}>
-                                    Documentação Verificada • Partiu App
+                                    Documentação Verificada • White Label App Mobi Free
                                 </Text>
                                 <Text style={styles.documentsModalCopyrightSubText}>
                                     Sistema de Verificação Segura

@@ -2,8 +2,7 @@ import axios from "axios";
 import { LocalStorage } from "../../local/LocalStorage";
 import { AuthResponse } from "../../../../domain/models/AuthResponse";
 
-// export const BASE_URL = 'https://api.fusion-sync.com';
-export const BASE_URL = 'http://192.168.18.5:3000';
+export const BASE_URL = 'http://xxx.168.xx.x:3000';
 
 const ApiRequestHandler = axios.create({
     baseURL: BASE_URL,
